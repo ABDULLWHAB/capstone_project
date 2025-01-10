@@ -1,8 +1,15 @@
-# React + Vite
+Weather App
+This is a weather application built using React, Tailwind CSS, and OpenWeather API. The app allows users to search for weather information of any city and displays details such as temperature, humidity, wind speed, and an icon representing the weather.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Search for weather by city name
+Displays temperature in Celsius
+Shows humidity and wind speed
+Displays weather icon based on current weather conditions
+Responsive design
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used
+React: A JavaScript library for building user interfaces
+Tailwind CSS: A utility-first CSS framework for styling
+OpenWeather API: Provides weather data for cities worldwide
+Vite: A fast development build tool
